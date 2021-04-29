@@ -1,0 +1,31 @@
+.banner {
+    background-image: url(https://img.huffingtonpost.com/asset/5c92d1b92300003200addbd2.png?ops=1200_630);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    display: block;
+}
+
+
+.banner h1 {
+    color: white;
+    font-size: 100px;
+
+
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+    width: 300px;
+}
+
+
+.banner .container {
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    display: block;
+    opacity: 2;
+}
